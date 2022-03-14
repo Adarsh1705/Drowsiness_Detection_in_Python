@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import requests
 import numpy as np
-from EAR_calculator import *
+from AR_calculator import *
 
 from imutils import face_utils 
 from imutils.video import VideoStream 
